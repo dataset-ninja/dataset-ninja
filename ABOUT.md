@@ -59,6 +59,8 @@
 <article>
 
   ## Why ninjas?
+  In two words: why not?
+  
   We aim to enhance datasets by incorporating cool visualizations and user-friendly analytical tools that come readily accessible. Picture yourself as a Master of Datasets (aka Dataset Ninja 🥷🏿), proficient in the art of Machine Learning datasets.
 
 </article>
