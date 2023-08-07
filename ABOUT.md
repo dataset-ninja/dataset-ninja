@@ -4,9 +4,10 @@
 
   - No worthless datasets of 10 images
   - Explore labels and statistics
-  - Single JSON format with download link
-  - Only free datasets with open license
-  - Images, videos and 3D Cloud Points
+  - Single JSON format with a download link
+  - Free and commercial datasets with a clear license
+  - Convenient search across thousands of datasets and labels
+  - Images, videos, 3D Cloud Points and DICOMs
   - Regular updates with new data
 </div>
 
@@ -23,28 +24,28 @@
 <article>
 
   ## Why datasets?
-  Data is the crucial factor for machine learning, especially for computer vision. You can easily find SotA neural network architechtures freely available for the majority of models, but almost never — the data.
+  Data is a crucial factor for machine learning, especially for computer vision. You can easily find SotA neural network architectures freely available for the majority of models, but almost never — the data.
 
 </article>
 
 <article>
 
   ## I want my dataset to be here
-  Yay, that's the spirit! Please [create](https://github.com/dataset-ninja/dataset-ninja/discussions/new?category=new-dataset-proposal) a new dataset proposal and don't forget to attach a brief description, license and download link to your dataset. Take note, that we only post datasets with open licenses.
+  Yay, that's the spirit! Please [create](https://github.com/dataset-ninja/dataset-ninja/discussions/new?category=new-dataset-proposal) a new dataset proposal and don't forget to attach a brief description, license and download link to your dataset.
 
 </article>
 
 <article>
 
   ## I don't want my dataset to be here
-  Sorry to hear that. 😢 Send us a message to [abuse@datasetninja.com](mailto:abuse@datasetninja.com) from the email address so that we can verify you as the owner and we remove it in no time.
+  Sorry to hear that. 😢 Send us a message to [inbox@datasetninja.com](mailto:inbox@datasetninja.com) from the email address so that we can verify you as the owner and we will remove it quickly.
 
 </article>
 
 <article>
 
   ## Are those datasets free?
-  Datasets you can find here are mostly distributed under open licenses, but please always make sure to check the corresponding *License* section of every dataset you plan to use — some may require attribution.
+  Datasets you can find here are mostly distributed under open licenses, but please always make sure to check the corresponding *License* section of every dataset you plan to use — some may be commercial or require attribution.
 
 </article>
 
@@ -58,7 +59,7 @@
 <article>
 
   ## Why ninjas?
-  Why not? 🥷🏿
+  We aim to enhance datasets by incorporating cool visualizations and user-friendly analytical tools that come readily accessible. Picture yourself as a Master of Datasets (aka Dataset Ninja 🥷🏿), proficient in the art of Machine Learning datasets.
 
 </article>
 </div>
