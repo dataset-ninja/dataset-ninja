@@ -7,7 +7,6 @@
   - Single JSON format with a download link
   - Free and commercial datasets with a clear license
   - Convenient search across thousands of datasets and labels
-  - Images, videos, 3D Cloud Points and DICOMs
   - Regular updates with new data
 </div>
 
